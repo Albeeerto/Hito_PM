@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "719998821768",
+    "firebase_url": "https://hito1-a530d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hito1-a530d",
+    "storage_bucket": "hito1-a530d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719998821768:android:d9d28526f62fdf6465063d",
+        "android_client_info": {
+          "package_name": "com.example.hito1_alberto_rodriguez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqIcTCAnkOY4OeIv0_MlExZDttTPm-AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

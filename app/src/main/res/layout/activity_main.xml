@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <!-- Texto para mostrar los puntos -->
+    <TextView
+        android:id="@+id/scoreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Puntos: 0"
+        android:textSize="24sp"
+        android:layout_marginTop="50dp"/>
+
+    <!-- Botón para hacer clic -->
+    <Button
+        android:id="@+id/clickButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Haz clic"
+        android:layout_marginTop="20dp"/>
+
+    <!-- Texto para mostrar el nivel -->
+    <TextView
+        android:id="@+id/levelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nivel: 1"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+
+    <!-- Botón para comprar mejoras -->
+    <Button
+        android:id="@+id/upgradeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mejorar"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
