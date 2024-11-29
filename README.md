@@ -11,8 +11,8 @@ Este es un juego de clicks simple desarrollado con Android Studio. El juego perm
 
 ## Capturas de Pantalla
 
-![Captura 1](hito1_alberto_rodriguez/img/login.png)
-![Captura 2](hito1_alberto_rodriguez/img/game.png)
+![Captura 1](img/login.png)
+![Captura 2](img/game.png)
 
 ## Instalación
 
